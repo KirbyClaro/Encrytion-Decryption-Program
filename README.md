@@ -1,1 +1,2 @@
 # Encrytion-Decryption-Program
+This program is a Python-based encryption and decryption program capable of processing letters, numbers, symbols, and ASCII characters. Using algorithm, it allows users to securely encode and decode messages with ease. It can be used for protecting sensitive data or experimenting with cryptographic techniques, this tool provides a reliable and efficient solution for secure communication.
